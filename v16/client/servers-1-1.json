@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "name": "BLACK RUSSIA",
+    "ip": "178.130.53.120",
+    "port": 1549,
+    "isOnline": true,
+    "players": 1,
+    "maxPlayers": 50
+  }
+]
